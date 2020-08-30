@@ -1,60 +1,35 @@
 
-
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES - MUGIWARATV[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ04s7PLWYwF8qCAQncVOORU3c49_etQ5JIUQ&usqp=CAU</thumbnail>
-<externallink>https://raw.githubusercontent.com/flaviokcs/MUGIWARATV/master/filmes</externallink>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvBi_K8i41RLCaR3E1-17dFXfP3wvWvgpOZw&usqp=CAU</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSO1hRt-b088HcnKHat3W_RdMXjeHctffbL0w&usqp=CAU</thumbnail>
-<externallink>https://raw.githubusercontent.com/flaviokcs/MUGIWARATV/master/series</externallink>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6ZSPryNbz5W8Y_dEefGpzcWbpeYqYzqFTAg&usqp=CAU</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ANIMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQw1wKMJFg8z0xV0JEOK7AcivNtKVYlKTFNIQ&usqp=CAU</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDxNNM0bNZF_P_WRUA-NLaelQTCpaBOABcVA&usqp=CAU</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES ANIMES - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]BLEACH[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>BLEACH</name>
 <thumbnail>https://image.tmdb.org/t/p/original/oehFopDepz3tgxTzISOb97C41jy.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://image.tmdb.org/t/p/original/xs88Qiibj5kr1lFTvIPn9bg7vbw.jpg</fanart>
-<info>
+<info>Ichigo Kurosaki é um garoto de 15 anos que tem uma estranha capacidade de ver, tocar e falar com espíritos de pessoas mortas. Logo que a shinigami Rukia Kuchiki toma conhecimento dos poderes de Ichigo, vai atrás dele para investigar, e acaba em uma luta com um Hollow que foi atraído pelo forte poder espiritual de Ichigo. Antes de ser derrotada pela criatura, Rukia passa seus poderes a Ichigo, o qual se torna um shinigami, e após derrotar o Hollow ingressa em uma jornada para proteger os humanos e os espíritos da ameaça dos Hollows</info>
+</channel>
+</channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-[COLOR deeppink]|[/COLOR] - Ichigo Kurosaki é um garoto de 15 anos que tem uma estranha capacidade de ver, tocar e falar com espíritos de pessoas mortas. Logo que a shinigami Rukia Kuchiki toma conhecimento dos poderes de Ichigo, vai atrás dele para investigar, e acaba em uma luta com um Hollow que foi atraído pelo forte poder espiritual de Ichigo. Antes de ser derrotada pela criatura, Rukia passa seus poderes a Ichigo, o qual se torna um shinigami, e após derrotar o Hollow ingressa em uma jornada para proteger os humanos e os espíritos da ameaça dos Hollows - [COLOR deeppink]|[/COLOR]</info>
+<channels>
+<channel>
+<name>ONE PIECE</name>
+<thumbnail>https://image.tmdb.org/t/p/original/oag7edI9flSMawmNySEiSEJAbrf.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/npg6pCyEYcCS6Ok9fbiIdcA60lH.jpg</fanart>
+<info>Houve um homem que conquistou tudo aquilo que o mundo tinha a oferecer, o lendário Rei dos Piratas, Gold Roger. Capturado e condenado à execução pelo Governo Mundial, suas últimas palavras lançaram legiões aos mares. "Meu tesouro? Se quiserem, podem pegá-lo. Procurem-no! Ele contém tudo que este mundo pode oferecer!". Foi a revelação do maior tesouro, o One Piece, cobiçado por homens de todo o mundo, sonhando com fama e riqueza imensuráveis... Assim começou a Grande Era dos Piratas!</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>NARUTO SHIPPUDEN</name>
+<thumbnail>https://image.tmdb.org/t/p/original/zAYRe2bJxpWTVrwwmBc00VFkAf4.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/y1E6d7x8ZGujIdbf9oiE0hlxtQ3.jpg</fanart>
+<info>Naruto Shippuden ocorre 2 anos e meio após Naruto ter ficado para treinar com Jiraiya. Após seu retorno, Naruto descobre que seus amigos shinobi's o superaram na classificação, e ele caiu para trás. No entanto, com apenas 6 meses para resgatar Sasuke, Naruto tem de enfrentar inimigos ainda mais perigosos. O plano da Akatsuki se revela lentamente e os perigos surgem mais do que nunca!</info>
 </channel>
 </channels>
 
